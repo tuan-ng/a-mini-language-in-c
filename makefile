@@ -9,4 +9,4 @@ mini: mini.o
 mini.o: mini.c 
 
 clean: 
-	$(RM) one_to_ten *.o
+	$(RM) mini *.o
